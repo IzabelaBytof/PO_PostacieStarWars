@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\bin\Debug\net9.0\PO_PostacieStarWars.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\bin\Debug\net9.0\PO_PostacieStarWars.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\bin\Debug\net9.0\PO_PostacieStarWars.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\bin\Debug\net9.0\PO_PostacieStarWars.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\bin\Debug\net9.0\PO_PostacieStarWars.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\refint\PO_PostacieStarWars.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\PO_PostacieStarWars.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_PostacieStarWars\obj\Debug\net9.0\ref\PO_PostacieStarWars.dll
